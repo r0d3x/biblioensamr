@@ -3,7 +3,7 @@
 **Version: 1.0**
 **Last Updated:** September 16, 2025
 
-This document outlines the API for the University Bookstore web application. This contract serves as the single source of truth for both the frontend and backend teams.
+ This contract serves as the single source of truth for both the frontend and backend teams.
 
 - **Base URL:** `/api`
 - **Data Format:** All requests and responses will use `JSON`.
